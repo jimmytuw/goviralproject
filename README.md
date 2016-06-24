@@ -1,1 +1,7 @@
-# goviralproject
+逢甲大學 行動應用程式開發 第七組
+
+涂銘晉 <jimmytuw
+
+陳施穎 <d0366896
+
+謝文俊 <diendz95
